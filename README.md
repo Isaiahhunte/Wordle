@@ -1,6 +1,6 @@
 # Wordle
 This recreation of wordle was made for a midterm examination.
-#User Manual
+# User Manual
 * The user will be asked to input a word to be guessed.
 * Then 5 guesses can be made to guess the word.
 * When a letter is in the correct spot it will show a green tile.
